@@ -4,6 +4,7 @@
 #include <vector>
 #include <algorithm>
 #include <random>
+#include <numeric>
 #include "Split.h"
 #include "helpers.h"
 
